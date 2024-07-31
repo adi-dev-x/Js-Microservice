@@ -1,0 +1,23 @@
+{
+  "name": "pq_server",
+  "version": "1.0.0",
+  "description": "Power Query - Real time sql db",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sql",
+    "real",
+    "time",
+    "db",
+    "end-to-end",
+    "encryption"
+  ],
+  "author": "Anaas Salam",
+  "license": "MIT",
+  "dependencies": {
+    "node-cache": "^5.1.2",
+    "prompt-sync": "^4.2.0"
+  }
+}
